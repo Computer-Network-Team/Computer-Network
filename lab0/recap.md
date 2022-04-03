@@ -8,6 +8,7 @@ This style is called “**Resource acquisition is initialization**” or **RAII*
 ### 有用的链接
   1. cmake-examples <https://github.com/ttroy50/cmake-examples>
   2. c++ core guilines <http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines>
+  3. github handbook  <https://docs.github.com/cn/get-started/using-git/about-git>
 
 ### 提醒
  "Send yourself an email "可以使用自己校内smtp服务,或者使用别的邮箱提供的smtp服务.  
